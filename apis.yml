@@ -1,0 +1,49 @@
+aid: radian-group
+name: Radian Group
+description: >-
+  Radian Group Inc. (NYSE: RDN) is a global, multi-line specialty insurer
+  providing private mortgage insurance through Radian Guaranty and specialty
+  insurance through its Inigo subsidiary at Lloyd's of London. Additional
+  subsidiaries include Radian Mortgage Capital and Radian Settlement Services.
+  Radian sold its homegenius media business in 2024. The company does not
+  publish a public developer portal or API documentation; lender integrations
+  occur through partner loan-origination, pricing, and servicing systems.
+  This repository captures what little machine-readable surface exists for
+  Radian Group.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Insurance
+  - Financial Services
+  - Mortgage Insurance
+  - Specialty Insurance
+  - Real Estate
+  - Mortgage
+  - Publicly Traded
+url: https://raw.githubusercontent.com/api-evangelist/radian-group/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis: []
+common:
+  - url: https://www.radian.com
+    type: Website
+  - url: https://www.radian.com/who-we-are
+    type: About
+  - url: https://www.radian.com/what-we-do/mortgage-insurance
+    type: Products
+  - url: https://www.radian.com/technology-integrations
+    type: Integrations
+  - url: https://www.radian.com/news-and-knowledge
+    type: Blog
+  - url: https://ir.radian.com
+    type: InvestorRelations
+  - url: https://www.linkedin.com/company/radian
+    type: LinkedIn
+  - url: https://twitter.com/radian
+    type: Twitter
+  - url: https://www.youtube.com/user/RadianGroup
+    type: YouTube
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
