@@ -26,6 +26,8 @@ modified: '2026-05-23'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/radian-group-domain-security.yml
   - url: https://www.radian.com
     type: Website
   - url: https://www.radian.com/who-we-are
