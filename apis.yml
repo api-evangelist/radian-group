@@ -25,6 +25,14 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/radian-group.png
 tags:
   - Insurance
+  - Financial-Services
+  - Mortgage Insurance
+  - Specialty Insurance
+  - Real-Estate
+  - Mortgage
+  - Publicly Traded
+tags_raw:
+  - Insurance
   - Financial Services
   - Mortgage Insurance
   - Specialty Insurance
