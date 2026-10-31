@@ -1,4 +1,4 @@
-# Radian Group (radian-group)
+# Radian Group
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,41 +66,78 @@
 
 Radian Group Inc. (NYSE: RDN) is a global, multi-line specialty insurer providing private mortgage insurance through Radian Guaranty and specialty insurance through its Inigo subsidiary at Lloyd's of London. Additional subsidiaries include Radian Mortgage Capital and Radian Settlement Services. Radian sold its homegenius media business in 2024. The company does not publish a public developer portal or API documentation; lender integrations occur through partner loan-origination, pricing, and servicing systems. This repository captures what little machine-readable surface exists for Radian Group.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/radian-group/refs/heads/main/apis.yml)
+**Areas:** Insurance · Financial Services · Mortgage Insurance · Specialty Insurance · Real Estate · Mortgage · Publicly Traded
 
-## Scope
+## Radian Group on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for Radian Group is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/radian-group/](https://apis.io/providers/radian-group/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### Published properties
 
- - Insurance, Financial Services, Mortgage Insurance, Specialty Insurance, Real Estate, Mortgage, Publicly Traded
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-05-23
-- **Modified:** 2026-05-23
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Radian Group Domain Security](https://apis.io/security/radian-group/radian-group-domain-security/)
 
-No public APIs have been documented. Radian does not operate a developer portal or publish OpenAPI specifications. Lender integration is delivered through partner platforms (ICE Mortgage Technology Encompass, Blue Sage, Calyx, Blend, Optimal Blue, MeridianLink, Finastra, Sagent, Fiserv DNA, and 30+ other LOS / PPE / servicing systems). The MI Online portal and RADAR Rates pricing engine are surfaced as proprietary web/mobile experiences rather than documented APIs. Contributions welcome.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.radian.com)
-- [About](https://www.radian.com/who-we-are)
-- [Products](https://www.radian.com/what-we-do/mortgage-insurance)
-- [Integrations](https://www.radian.com/technology-integrations)
 - [Blog](https://www.radian.com/news-and-knowledge)
-- [InvestorRelations](https://ir.radian.com)
-- [LinkedIn](https://www.linkedin.com/company/radian)
-- [Twitter](https://twitter.com/radian)
-- [YouTube](https://www.youtube.com/user/RadianGroup)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 3.6** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.3** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/radian-group/](https://apis.io/providers/radian-group/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Radian Group: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/radian-group/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
